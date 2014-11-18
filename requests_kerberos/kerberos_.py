@@ -1,4 +1,4 @@
-import kerberos
+import kerberos_sspi as kerberos
 import re
 import logging
 
